@@ -1,0 +1,10 @@
+.match-calendar__items-list {
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+
+.match-calendar__items-list > li {
+    display: flex;
+}

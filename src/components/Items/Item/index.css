@@ -1,0 +1,31 @@
+.items__item {
+    list-style-type: none;
+}
+.items__link-wrapper {
+    background: #f3f3f3;
+    border-radius: 8px;
+    border-bottom: 1px solid #ababab;
+    padding: 20px 0;
+    text-align: center;
+    display: block;
+    text-decoration: none;
+}
+.items__link-wrapper-img {
+    min-height: 240px;
+    background: #f3f3f3;
+    border-radius: 8px;
+    border-bottom: 1px solid #ababab;
+    padding: 20px 0;
+    text-align: center;
+    display: block;
+    text-decoration: none;
+}
+.items__name {
+    font-weight: 500;
+    margin-bottom: 25px;
+    color: #282828;
+}
+.items__country {
+    font-weight: 600;
+    color: #ababab;
+}

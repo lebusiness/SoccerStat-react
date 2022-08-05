@@ -1,0 +1,16 @@
+.search-form {
+    position: relative;
+    display: inline-block;
+
+}
+.search-form__input {
+    padding: 5px 28px 5px 5px;
+    margin: 12px 0;
+    border-radius: 5px;
+    border: 1px solid #ababab;
+}
+.search-form__img {
+    position: absolute;
+    top: 15px;
+    right: 4px;
+}

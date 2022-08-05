@@ -1,0 +1,28 @@
+.match-calendar__item {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    background: #f3f3f3;
+    border-bottom: 1px solid #ababab;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.match-calendar__item div {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.match-calendar__item span {
+    flex: 1.3;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+@media (max-width: 1204px) {
+    .match-calendar__item {
+        flex-direction: column;
+    }
+}

@@ -1,0 +1,15 @@
+.pagination-list {
+    display: inline-block;
+    padding: 0;
+    margin-top: 20px;
+}
+.wrapp-flex {
+    display: flex;
+    justify-content: center;
+}
+.arrow-disabled {
+    visibility: hidden;
+}
+.match-calendar__title {
+    margin-bottom: 5px;
+}

@@ -1,0 +1,27 @@
+.pagination-list__item {display: inline;}
+
+.pagination-list__link {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    cursor: pointer;
+}
+.pagination-list__link-etc {
+    float: left;
+    padding-top: 8px;
+    margin: 0 5px;
+    cursor: default;
+}
+.active {
+    background-color: #c2c2c2;
+    color: white;
+}
+
+.pagination-list__link:hover:not(.active) {background-color: #f3f3f3;}
+
+@media (max-width: 400px) {
+    .pagination-list__link {
+        padding: 8px 8px !important;
+    }
+}

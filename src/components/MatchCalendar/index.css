@@ -1,0 +1,36 @@
+.match-calendar__title {
+    font-weight: 700;
+}
+.match-calendar__link-wrapper {
+    display: flex;
+    column-gap: 6px;
+    margin: 12px 0;
+    font-size: 12px;
+}
+
+.match-calendar__main {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.match-calendar__prev-link, .match-calendar__current-link {
+    text-decoration: none;
+    color: #282828;
+    transition: 1.5s;
+}
+.match-calendar__current-link {
+    font-weight: 500;
+}
+.sign {
+    cursor: default;
+}
+.match-calendar__prev-link:hover, .match-calendar__current-link:hover {
+    text-decoration: underline;
+}
+
+.error-message {
+    color: red;
+    margin-top: 20px;
+    display: block;
+}
