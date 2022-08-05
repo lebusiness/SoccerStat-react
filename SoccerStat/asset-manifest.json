@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SoccerStat/static/css/main.119b5933.css",
+    "main.js": "/SoccerStat/static/js/main.c4110e2d.js",
+    "static/media/logo.png": "/SoccerStat/static/media/logo.a61ee234c1a3300584d7.png",
+    "index.html": "/SoccerStat/index.html",
+    "static/media/search.svg": "/SoccerStat/static/media/search.4f43490c7a83a7e130cb450602fd783d.svg",
+    "main.119b5933.css.map": "/SoccerStat/static/css/main.119b5933.css.map",
+    "main.c4110e2d.js.map": "/SoccerStat/static/js/main.c4110e2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.119b5933.css",
+    "static/js/main.c4110e2d.js"
+  ]
+}
